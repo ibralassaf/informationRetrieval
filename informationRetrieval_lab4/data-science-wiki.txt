@@ -1,0 +1,6 @@
+A stemmer for English operating on the stem cat sh
+ould identify such strings as cats, catlike, and catty. A stem
+ming algorithm might also reduce the words fishing, fished, an
+d fisher to the stem fish. The stem need not be a word, for ex
+ample the Porter algorithm reduces, argue, argued, argues, arg
+uing, and argus to the stem argu.
